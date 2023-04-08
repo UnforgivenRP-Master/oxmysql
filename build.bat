@@ -1,1 +1,1 @@
-cd web && pnpm i && pnpm build && pause
+pnpm i && pnpm build && cd web && pnpm i && pnpm build && pause
